@@ -1,0 +1,10 @@
+<b> Login Credentials </b>
+</br>
+<b> URL : </b> <a href=""></a>
+<br>
+<b> Admin Access </b>  <br>
+<b> Email : </b> admin@example.com <br>
+<b> Password : </b> 123456 <br>
+<b> User Access </b> <br>
+<b> Email : </b> user@example.com <br>
+<b> Password : </b> 123456 <br>
